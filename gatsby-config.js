@@ -21,7 +21,6 @@ module.exports = {
     githubURL: `https://github.com/geekydesigner`,
   },
   plugins: [
-    `gatsby-plugin-netlify`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
@@ -39,14 +38,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    // `gatsby-plugin-offline`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "ENTER YOUR GA TRACKING ID HERE",
-        head: false,
-      },
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
