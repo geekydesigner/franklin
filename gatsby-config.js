@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "/franklin",
   siteMetadata: {
     title: `Bonneville`,
     titleTemplate: `%s | A starter theme for Gatsby`,
