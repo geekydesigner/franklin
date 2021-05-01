@@ -8,17 +8,17 @@ module.exports = {
   /* Your site config here */
   pathPrefix: "/franklin",
   siteMetadata: {
-    title: `Bonneville`,
-    titleTemplate: `%s | A starter theme for Gatsby`,
-    description: `A starter theme for Gatsby`,
-    siteUrl: `https://bonneville.netlify.com`,
+    title: `Franklin`,
+    titleTemplate: `%s | A starter theme for Gatsby based on Bonneville`,
+    description: `A starter theme for Gatsby based on Bonneville`,
+    siteUrl: `https://geekydesigner.github.io/franklin/`,
     image: `/images/color.jpg`,
-    author: `Morgan Baker`,
-    authorSite: `https://www.morganbaker.dev`,
-    twitterUsername: `@bonneville`,
+    author: `Brian Spencer St. John`,
+    authorSite: `https://www.bstjohn.com`,
+    twitterUsername: `@geekydesigner`,
     twitterURL: `https://twitter.com/`,
     linkedInURL: `https://www.linkedin.com`,
-    githubURL: `https://github.com/bagseye`,
+    githubURL: `https://github.com/geekydesigner`,
   },
   plugins: [
     `gatsby-plugin-netlify`,
@@ -29,8 +29,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Bonneville - Gatsby Starter Theme`,
-        short_name: `Bonneville`,
+        name: `Franklin - Gatsby Starter Theme based on Bonneville`,
+        short_name: `Franklin`,
         start_url: `/`,
         background_color: `#0027EC`,
         theme_color: `#0027EC`,

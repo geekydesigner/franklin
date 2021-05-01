@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Bonneville - A Gatsby Starter Blog
+  Franklin - A Gatsby Starter Blog based on Bonneville
 </h1>
 
 ## Please Note
