@@ -1,0 +1,175 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-96229fa1ce08c786ae8b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-js-cc18b3c38755fd91334a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-journal-template-js-49963ea3a06595ef08a8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-js-84ebebd052fe30af08c1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-js-8adae72ea850232279cd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-contact-js-e643e414885f8499ca6f.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-873ad691aba6245a0c17.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-36826541ca7cf7c0757f.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-b9b15b313f58197d6aa0.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.cf27fd7b00bcb6461840.css
+  Cache-Control: public, max-age=31536000, immutable
+/1bfc9850-aa4694449b625d03bb81.js
+  Cache-Control: public, max-age=31536000, immutable
+/70b165ca-24946e08d4cf861368a4.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-a2170fa4134dfa1e34f5.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/franklin/privacy
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-page-template-js-96229fa1ce08c786ae8b.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/privacy/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/cookies
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-page-template-js-96229fa1ce08c786ae8b.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/cookies/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/404
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-page-template-js-96229fa1ce08c786ae8b.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/etiam-congue-orci-vel
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-post-js-cc18b3c38755fd91334a.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/etiam-congue-orci-vel/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/duis-convallis-eget
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-post-js-cc18b3c38755fd91334a.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/duis-convallis-eget/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/morbi-elit-leo
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-post-js-cc18b3c38755fd91334a.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/morbi-elit-leo/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/journal
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-journal-template-js-49963ea3a06595ef08a8.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/journal/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/tags/cms
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-tags-js-84ebebd052fe30af08c1.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/tags/cms/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/tags/data
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-tags-js-84ebebd052fe30af08c1.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/tags/data/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/tags/seo
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-tags-js-84ebebd052fe30af08c1.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/tags/seo/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/404.html
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-templates-page-template-js-96229fa1ce08c786ae8b.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/about/
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/component---src-pages-about-js-8adae72ea850232279cd.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/contact/
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-pages-contact-js-e643e414885f8499ca6f.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/franklin/
+  Link: </franklin/webpack-runtime-36826541ca7cf7c0757f.js>; rel=preload; as=script
+  Link: </franklin/framework-b9b15b313f58197d6aa0.js>; rel=preload; as=script
+  Link: </franklin/1bfc9850-aa4694449b625d03bb81.js>; rel=preload; as=script
+  Link: </franklin/70b165ca-24946e08d4cf861368a4.js>; rel=preload; as=script
+  Link: </franklin/app-a2170fa4134dfa1e34f5.js>; rel=preload; as=script
+  Link: </franklin/70d71be51c9a870e8b18aeeca1c1016976a3b06a-869cbec4e9b2fa9aee31.js>; rel=preload; as=script
+  Link: </franklin/component---src-pages-index-js-873ad691aba6245a0c17.js>; rel=preload; as=script
+  Link: </franklin/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </franklin/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin

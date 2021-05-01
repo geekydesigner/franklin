@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://bonneville.netlify.com/franklin/privacy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/cookies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/etiam-congue-orci-vel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/duis-convallis-eget</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/morbi-elit-leo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/journal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/tags/cms</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/tags/data</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/tags/seo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bonneville.netlify.com/franklin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
