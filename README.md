@@ -10,7 +10,7 @@
 
 ## Please Note
 
-This repo is a work-in-progress. I am currently experimenting with Gatsby for static site generation. This project is based on Bonnevill, a starter blog site created by [Morgan Baker](https://github.com/bagseye/bonneville). Follow the instructions below if you would like to clone the project from the original source.
+This repo is a work-in-progress. I am currently experimenting with Gatsby for static site generation. This project is based on Bonneville, a starter blog site created by [Morgan Baker](https://github.com/bagseye/bonneville). Follow the instructions below if you would like to clone the project from the original source.
 
 ## 🚀 Quick start
 
