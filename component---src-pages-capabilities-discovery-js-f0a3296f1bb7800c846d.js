@@ -1,0 +1,2 @@
+(self.webpackChunkfranklin=self.webpackChunkfranklin||[]).push([[428],{1726:function(e,n,l){"use strict";l.r(n);var t=l(7294);n.default=function(){return t.createElement(t.Fragment,null,t.createElement("h1",null,"Discovery Capabilities"),t.createElement("p",null,"Placeholder"))}}}]);
+//# sourceMappingURL=component---src-pages-capabilities-discovery-js-f0a3296f1bb7800c846d.js.map

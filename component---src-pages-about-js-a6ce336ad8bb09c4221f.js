@@ -1,0 +1,2 @@
+(self.webpackChunkfranklin=self.webpackChunkfranklin||[]).push([[682],{5518:function(e,n,l){"use strict";l.r(n);var t=l(7294);n.default=function(){return t.createElement(t.Fragment,null,t.createElement("h1",null,"About Franklin"),t.createElement("p",null,"Placeholder"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-a6ce336ad8bb09c4221f.js.map

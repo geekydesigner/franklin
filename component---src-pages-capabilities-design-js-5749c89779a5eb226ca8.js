@@ -1,0 +1,2 @@
+(self.webpackChunkfranklin=self.webpackChunkfranklin||[]).push([[835],{2803:function(e,n,l){"use strict";l.r(n);var t=l(7294);n.default=function(){return t.createElement(t.Fragment,null,t.createElement("h1",null,"Design Capabilities"),t.createElement("p",null,"Placeholder"))}}}]);
+//# sourceMappingURL=component---src-pages-capabilities-design-js-5749c89779a5eb226ca8.js.map
