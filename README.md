@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://bonneville.netlify.app">
+  <a href="https://geekydesigner.github.io/franklin/">
     <img alt="Bonneville Logo" src="/src/content/images/franklin-logo.svg" width="200" />
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 ## Please Note
 
-This repo is a WIP. Updates will happen throughout the life of this project as I understand working with Gatsby and React. If issues are raised, I will answer and resolve them when time allows.
+This repo is a work-in-progress. I am currently experimenting with Gatsby for static site generation. This project is based on Bonnevill, a starter blog site created by [Morgan Baker](https://github.com/bagseye/bonneville). Follow the instructions below if you would like to clone the project from the original source.
 
 ## 🚀 Quick start
 
