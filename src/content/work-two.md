@@ -1,12 +1,12 @@
 ---
-title: Etiam congue orci vel
-description: Pellentesque euismod dapibus ligula, ac tempor quam dapibus a. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: 2019-08-26
-path: /etiam-congue-orci-vel
+title: Opus itimus octo
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod dapibus ligula, ac tempor quam dapibus a. 
+date: 2021-08-03
+path: /opus-itimus-octo
 featuredImage: ./images/dark-sky.jpg
 featuredImageAlt: "Dark abstract shapes"
-tags: ["data", "CMS"]
-author: Morgan Baker
+tags: ["design"]
+author: Brian Spencer St John
 ---
 
 Sed eu aliquet dolor. Nullam vitae tempor tellus. Vivamus eget elementum leo. Etiam dolor erat, tincidunt ut erat et, hendrerit tincidunt dolor. Vivamus pretium luctus nisi, quis sodales diam varius ac. Etiam mattis velit in dui gravida, ut rutrum urna accumsan. Aliquam facilisis in orci eu mollis. Morbi vel nisi pulvinar mi tincidunt aliquet. Donec at dictum eros. Sed ac consectetur ex.

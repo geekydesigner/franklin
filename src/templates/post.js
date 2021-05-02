@@ -96,7 +96,7 @@ export default function Template({ data }) {
         dangerouslySetInnerHTML={{ __html: html }}
       />
       <hr />
-      <Link to="/journal" className="btn-link">
+      <Link to="/portfolio" className="btn-link">
         <Button text="Return to Journal Home" />
       </Link>
 

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://bonneville.netlify.app">
-    <img alt="Bonneville Logo" src="/src/content/images/bonneville-logo.svg" width="200" />
+    <img alt="Bonneville Logo" src="/src/content/images/franklin-logo.svg" width="200" />
   </a>
 </p>
 <h1 align="center">
@@ -58,3 +58,6 @@ This uses Netlify forms. For more information on these please visit:
 
 ## Footer.js
 `Footer.js` takes menu imports from `constants/menu-items.js` where you can declare the title and path. Depending on if these imports are present/true, the component will render the associated `<div>`.
+
+## Customizations
+https://www.gatsbyjs.com/docs/how-to/styling/using-web-fonts/

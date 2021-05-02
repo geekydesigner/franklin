@@ -49,7 +49,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     {
       name: "404",
       title:
-        "This is the error page. You can change this title in gatsby-node.js",
+        "This is the error page! You can change this title in gatsby-node.js",
     },
   ]
   pageData.forEach(page => {
@@ -79,8 +79,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const numPages = Math.ceil(posts.length / postsPerPage)
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({
-      path: i === 0 ? `/journal` : `/journal/${i + 1}`,
-      component: path.resolve("./src/templates/journal-template.js"),
+      path: i === 0 ? `/portfolio` : `/portfolio/${i + 1}`,
+      component: path.resolve("./src/templates/portfolio-template.js"),
       context: {
         limit: postsPerPage,
         skip: i * postsPerPage,

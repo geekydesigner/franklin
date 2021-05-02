@@ -19,6 +19,11 @@ const Navigation = () => {
             <Link to={item.path} onClick={toggleNav}>
               {item.title}
             </Link>
+            {item.subMenu && item.subMenu.map((item, index) => (
+              <Link to={item.path} onClick={toggleNav}>
+              {item.title}
+              </Link>
+            ))}
           </li>
         ))}
       </ul>

@@ -3,10 +3,10 @@ import { Link, graphql } from "gatsby"
 import Seo from "../components/SEO"
 import BlogItem from "../components/BlogItem"
 import Button from "../components/Button"
-import { PagerStyles } from "../styles/JournalStyles"
+import { PagerStyles } from "../styles/PortfolioStyles"
 import Banner from "../components/Banner"
 
-const JournalTemplate = (props) => {
+const PortfolioTemplate = (props) => {
   const { edges } = props.data.allMarkdownRemark
 
   const { currentPage, numPages } = props.pageContext
@@ -17,11 +17,11 @@ const JournalTemplate = (props) => {
 
   return (
     <>
-      <Seo title="Read more about the projects at Bonneville" />
-      <Banner content="Bonneville Journal" />
+      <Seo title="Read more about the projects at Franklin" />
+      <Banner content="Franklin Portfolio" />
       <p>
         {" "}
-        This is the Bonneville journal. Here you will find an elegant blog
+        This is the Franklin journal. Here you will find an elegant blog
         system that will help you make announcements to your cleints with ease.
       </p>
       <p>
@@ -38,12 +38,12 @@ const JournalTemplate = (props) => {
         <PagerStyles>
           <div className="btns">
             {!isFirst && (
-              <Link to={`/journal/${prevPage}`} rel="prev">
+              <Link to={`/portfolio/${prevPage}`} rel="prev">
                 <Button text="Previous" />
               </Link>
             )}
             {!isLast && (
-              <Link to={`/journal/${nextPage}`} rel="next">
+              <Link to={`/portfolio/${nextPage}`} rel="next">
                 <Button text="Next" />
               </Link>
             )}
@@ -52,7 +52,7 @@ const JournalTemplate = (props) => {
             {Array.from({ length: numPages }, (_, i) => (
               <Link
                 key={`pagination-numbers${i + 1}`}
-                to={`/journal/${i === 0 ? "" : i + 1}`}
+                to={`/portfolio/${i === 0 ? "" : i + 1}`}
               >
                 {i + 1}
               </Link>
@@ -64,10 +64,10 @@ const JournalTemplate = (props) => {
   )
 }
 
-export default JournalTemplate
+export default PortfolioTemplate
 
-export const journalQuery = graphql`
-  query journalQuery($skip: Int!, $limit: Int!) {
+export const portfolioQuery = graphql`
+  query portfolioQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit

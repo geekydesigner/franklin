@@ -44,7 +44,7 @@ const ContactPage = () => {
     <>
       <Seo
         title="Get in touch"
-        description="Contact Bonneville about your next project"
+        description="Contact Franklin about your next project"
       />
       <Banner content="Get in touch today" />
       <p>

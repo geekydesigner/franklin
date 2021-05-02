@@ -12,8 +12,30 @@ export const mainMenuItems = [
     title: "about",
   },
   {
-    path: "/journal",
-    title: "journal",
+    path: "/portfolio",
+    title: "portfolio",
+  },
+  {
+    path: "/capabilities",
+    title: "capabilities",
+    subMenu: [
+      {
+        path: "/capabilities/discovery",
+        title: "discovery",
+      },
+      {
+        path: "/capabilities/design",
+        title: "design",
+      },
+      {
+        path: "/capabilities/strategy",
+        title: "strategy",
+      },
+      {
+        path: "/capabilities/evaluation",
+        title: "evaluation",
+      },
+    ]
   },
   {
     path: "/contact",

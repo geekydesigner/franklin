@@ -17,8 +17,7 @@ const HomePage = ({ data }) => {
     <>
       <Seo />
       <Banner
-        content="My name is Bonneville. I'm a starter theme for Gatsby and I like to talk
-        as if I am a living thing"
+        content="Welcome to Franklin. Starter theme for Gatsby."
       />
       <FeaturedItems>{BlogPostQuery.totalCount} Featured Posts</FeaturedItems>
       {BlogPostQuery.edges.map(({ node }, index) => (
